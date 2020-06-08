@@ -3,7 +3,7 @@
 ## GOAL
 
 Create a Object of your choice in the center of the app. The object must be done either with
-flare (2dimensions.com) or with flutter painter.
+flare (rive.app) or with flutter painter.
 Implement 9 different way for a user to interact with that object.
 
 ## TASK
