@@ -1,4 +1,4 @@
-# OVERLAY_EDIT
+# SNAPSHOT_EDIT
 
 ## GOAL
 
